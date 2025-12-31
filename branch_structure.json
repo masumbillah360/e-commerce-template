@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dev",
+    "feat-shadcnui-install",
+    "main"
+  ],
+  "parent": {
+    "dev": "main",
+    "feat-shadcnui-install": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "dev",
+    "feat-shadcnui-install"
+  ]
+}
